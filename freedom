@@ -1,0 +1,21 @@
+index.html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Studio Musicale</title>
+</head>
+<body style="background:#111;color:white;font-family:sans-serif;text-align:center">
+
+<h1>🎧 STUDIO MUSICALE</h1>
+<p>Registrazione • Mix • Master</p>
+
+<p>📍 Fermo</p>
+<p>📩 Email: musicfreedomstudio@gmail.com</p>
+
+<p>
+<a href="https://instagram.com" style="color:#0f0">Instagram</a>
+</p>
+
+</body>
+</html>
